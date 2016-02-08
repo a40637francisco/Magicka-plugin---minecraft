@@ -1,0 +1,8 @@
+main: com.franmcod.App
+name: testPlugins
+version: 1.0
+author: franmcod
+
+commands:
+  wand: 
+    description: gives a wand

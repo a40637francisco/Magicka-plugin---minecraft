@@ -1,0 +1,17 @@
+ fire beam:
+  ability:damage
+  power:4
+  cooldown:3
+  range: 20
+  toSelf:false
+  passesBlocks:false
+  stopOnHit:true
+  effect:
+   type:beam
+   particle:flame
+   particleCount:low
+  recipe:
+   -
+   -
+   -
+water beam:   
